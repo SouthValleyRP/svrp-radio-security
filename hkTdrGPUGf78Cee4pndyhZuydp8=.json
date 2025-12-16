@@ -230,7 +230,7 @@
             "name": "San Andreas ATC",
             "soundName": "A T C",
             "type": "announce",
-            "coloredName": "[color=pink]Announcements[/color]",
+            "coloredName": "[color=blue]San Andreas ATC[/color]",
             "talkEnforcement": true,
             "talkAround": false,
             "scannable": true,
