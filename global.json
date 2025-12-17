@@ -1,8 +1,7 @@
 {
     "plugin_status": true,
-    "CurrentFivemVersion": ["1.0.0"],
     "command_validation_str": "Radio25",
-    "current_versions": ["1.0.0"],
+    "current_versions": ["1.0.1"],
     "permitted_versions": [""],
     "dev_uid_list": [
         "-----"
