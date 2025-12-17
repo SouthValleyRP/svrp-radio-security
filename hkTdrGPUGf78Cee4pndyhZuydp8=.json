@@ -13,7 +13,7 @@
         {
             "id": 1,
             "name": "Patrol Ops",
-            "soundName": "Ch_SWDispatch",
+            "soundName": "Statewide Dispatch",
             "type": "LEO",
             "coloredName": "[color=green]Patrol Ops[/color]",
             "talkEnforcement": true,
@@ -25,7 +25,7 @@
         {
             "id": 2,
             "name": "Fire Ops",
-            "soundName": "Ch_FireOps",
+            "soundName": "Fire Ops",
             "type": "LEO",
             "coloredName": "[color=orange]Fire Ops[/color]",
             "talkEnforcement": true,
@@ -37,7 +37,7 @@
         {
             "id": 3,
             "name": "Tac 1",
-            "soundName": "Ch_Tac1",
+            "soundName": "Tac 1",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 1[/color]",
             "talkEnforcement": true,
@@ -49,7 +49,7 @@
         {
             "id": 4,
             "name": "Tac 2",
-            "soundName": "Ch_Tac2",
+            "soundName": "Tac 2",
             "type": "LEO",
             "coloredName": "[color=purple]Tac 2[/color]",
             "talkEnforcement": true,
@@ -61,7 +61,7 @@
         {
             "id": 5,
             "name": "LEO Cars",
-            "soundName": "Ch_LEOCars",
+            "soundName": "LEO Cars",
             "type": "LEO",
             "coloredName": "[color=grey]LEO Cars[/color]",
             "talkEnforcement": true,
@@ -74,7 +74,7 @@
         {
             "id": 6,
             "name": "Fireground",
-            "soundName": "Ch_Fireground",
+            "soundName": "Fireground",
             "type": "LEO",
             "coloredName": "[color=#FFB700]Fireground[/color]",
             "talkEnforcement": true,
